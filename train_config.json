@@ -1,0 +1,10 @@
+{
+    "trainParameters": {
+        "epochs": 2,
+        "learningRate": 0.001,
+        "batchSize": 64,
+        "width": 96,
+        "height": 96,
+        "channels": 3
+    }
+}

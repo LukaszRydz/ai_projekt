@@ -1,0 +1,17 @@
+{
+    "Status": "Finished",
+    "Training parameters: ": {
+        "epochs": 15,
+        "learningRate": 0.001,
+        "batchSize": 64,
+        "width": 96,
+        "height": 96,
+        "channels": 3
+    },
+    "Load images duration": "0.03953742980957031s",
+    "Convert images duration": "15.098411798477173s",
+    "Number of images: ": 560,
+    "Total image prepare duration": "15.152655839920044s",
+    "Training duration: ": "109.48233842849731s",
+    "Total duration: ": "124.85995483398438s"
+}
